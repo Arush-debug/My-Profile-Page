@@ -1,1 +1,1 @@
-# My CV
+# My first attempt at coding (lol)
